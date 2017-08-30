@@ -1,0 +1,6 @@
+- name: living
+  img: /assets/images/category/living.jpg
+- name: reading
+  img: /assets/images/category/reading.jpg
+- name: coding
+  img: /assets/images/category/coding.jpg

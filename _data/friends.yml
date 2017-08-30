@@ -1,0 +1,4 @@
+- name: GitHub
+  image: https://avatars1.githubusercontent.com/u/9919?v=4&s=100
+  url: https://www.github.com/github
+  describe: GitHub is how people build software.

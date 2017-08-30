@@ -1,0 +1,68 @@
+title:
+  switch: true
+  visible: "(ฅ´ω`ฅ)"
+  hidden:  "( ‘-ωก̀ )"
+  with_default_title: true
+  reset_time: 1000
+
+cursor:
+  switch: false
+  auto_url: ""
+  pointer_url: ""
+
+console:
+  switch: true
+  theme_info: false
+  text: "Copyright © 2017 Metaphors' Blog"
+  color: "#fff"
+  background: "#448aff"
+
+header: 
+  switch: true
+
+background: 
+  switch: true
+  background_img: "/assets/images/home/background.png"
+  transparent_header: true
+  transparent_footer: false
+  text_color: "#fff"
+
+card: 
+  switch: true
+  background_color: "rgba(255, 255, 255, 0.5)"
+  card_img_opacity: "0.8"
+
+live2d: 
+  switch: true
+  model: "/assets/live2d/wanko/wanko.model.json"
+  drag: true
+  in_mobile: false
+  width: 130
+  height: 190
+  bottom: 100
+  leftOrRight: "right"
+  offset: 10
+
+music_player:
+  player: "aplayer"
+  button_color: "#1abc9c"
+  music:
+    - title: "旅路(夢中飛行)"
+      author: "久石譲"
+      url: "/assets/music/the_wind_rise.mp3"
+      pic: "/assets/images/music/the_wind_rise.jpg"
+    - title: "あの夏へ"
+      author: "久石譲"
+      url: "/assets/music/spirited_away.mp3"
+      pic: "/assets/images/music/spirited_away.jpg"
+    - title: "空中散歩"
+      author: "久石譲"
+      url: "/assets/music/howls_moving_castle.mp3"
+      pic: "/assets/images/music/howls_moving_castle.jpg"
+
+head_card:
+  switch: true
+  left_img: "/assets/images/home/left_img.jpg"
+  left_text: "『 勿感于时，勿伤于怀。勿耽美色，勿沉虚妄。』"
+  right_img: "/assets/images/home/right_img.png"
+  offset_level: 2

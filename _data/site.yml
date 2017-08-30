@@ -1,0 +1,73 @@
+head: 
+   favicon: "https://avatars3.githubusercontent.com/u/10670315?v=4&s=50"
+   high_res_favicon: "https://avatars0.githubusercontent.com/u/10670315?v=4&s=500"
+   apple_touch_icon: "https://avatars0.githubusercontent.com/u/10670315?v=4&s=500"
+   keywords: "Metaphors' Blog"
+
+uiux:
+   android_chrome_color: "#eeeeee"
+   nprogress_color: "#29d"
+   nprogress_buffer: 200
+   meng: true
+
+background: 
+   purecolor: "#eeeeee"
+
+img: 
+   avatar: "https://avatars3.githubusercontent.com/u/10670315?v=4&s=100"
+
+card: 
+   card_shadow: 1
+   card_hoverable: true
+
+many_authors: false
+
+sns_share: # SNS Share Switch
+   weibo: true
+   qq: true
+   twitter: true
+   facebook: true
+   googleplus: true
+   telegram: false
+   linkedin: false
+  
+comment:
+  used: "" # disqus,livere,gitment,valine
+  # disqus config
+  disqus_shortname: "" # Your disqus 
+  disqus_button: true # disqus load button
+  disqus_proxy: false # # disqus proxy(Do not use)
+  disqus_proxy_url: "" # (Do not use)
+  disqus_api_key: "" # (Do not use)
+  # livere config
+  livere_type: 'city'
+  livere_data_uid: ''
+  # gitment config
+  owner: ""
+  repo: ""
+  client_id: ""
+  client_secret: ""
+  #valine config
+  valine_notify: false #mail notifier
+  valine_verify: false #validation code
+  valine_app_id: ''
+  valine_app_key: ''
+  valine_placeholder: "ヾﾉ≧∀≦)o来啊，快活啊!"
+
+prism:
+  themes: prism-okaidia
+  components: 
+    - bash 
+  plugins: 
+
+mathjax: true
+
+google_analytics: "(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'UA-105616460-1', 'auto');ga('send', 'pageview');"
+
+lang: "zh-CN"
+
+deploy: ""
+
+custom_css: "" # Use the assets/css/customCss.css
+
+custom_js: "" # Use the assets/js/customJS.js
