@@ -32,13 +32,13 @@ sns_share:
    linkedin: false
   
 comment:
-  used: "" # disqus,livere,gitment,valine
+  used: ""
   # disqus config
-  disqus_shortname: "" # Your disqus 
-  disqus_button: true # disqus load button
-  disqus_proxy: false # # disqus proxy(Do not use)
-  disqus_proxy_url: "" # (Do not use)
-  disqus_api_key: "" # (Do not use)
+  disqus_shortname: ""
+  disqus_button: true
+  disqus_proxy: false
+  disqus_proxy_url: ""
+  disqus_api_key: ""
   # livere config
   livere_type: 'city'
   livere_data_uid: ''
@@ -48,11 +48,11 @@ comment:
   client_id: ""
   client_secret: ""
   #valine config
-  valine_notify: false #mail notifier
-  valine_verify: false #validation code
+  valine_notify: false
+  valine_verify: false
   valine_app_id: ''
   valine_app_key: ''
-  valine_placeholder: "ヾﾉ≧∀≦)o来啊，快活啊!"
+  valine_placeholder: ""
 
 prism:
   themes: prism-okaidia
