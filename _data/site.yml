@@ -32,9 +32,9 @@ sns_share:
    linkedin: false
   
 comment:
-  used: "gitment"
+  used: "disqus"
   # disqus config
-  disqus_shortname: ""
+  disqus_shortname: "metaphors-disqus"
   disqus_button: true
   disqus_proxy: false
   disqus_proxy_url: ""

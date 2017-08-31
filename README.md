@@ -346,6 +346,9 @@ bundle install
 选择要使用的评论系统
 
 #### Disqus
+ disqus_shortname   
+Disqus shortname
+
  disqus_button   
 是否显示加载 Disqus 按钮
 
