@@ -43,7 +43,7 @@ comment:
   livere_type: 'city'
   livere_data_uid: ''
   # gitment config
-  owner: "Metaphors"
+  owner: "metaphors"
   repo: "metaphors.github.io"
   client_id: "45e1bc8087e4b783982e"
   client_secret: "878fc8f25951b648c38ef69c23eaa5c154e9f92f"

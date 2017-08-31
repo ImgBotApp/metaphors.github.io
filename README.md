@@ -355,7 +355,7 @@ livere 版本，默认值为 city ，如果购买了 livere ，填入 premium
 
 #### Gitment
  owner   
-GitHub Name
+GitHub ID
 
  repo   
 存储评论的 Repository
