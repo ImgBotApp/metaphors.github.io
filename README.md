@@ -363,7 +363,7 @@ GitHub ID
  client_id   
 Client ID
 
- client_secret 
+ client_secret   
 Client Secret
 
 #### Valine
