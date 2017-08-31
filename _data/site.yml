@@ -1,7 +1,7 @@
 head: 
    favicon: "https://avatars3.githubusercontent.com/u/10670315?v=4&s=50"
-   high_res_favicon: "https://avatars0.githubusercontent.com/u/10670315?v=4&s=500"
-   apple_touch_icon: "https://avatars0.githubusercontent.com/u/10670315?v=4&s=500"
+   high_res_favicon: "https://avatars0.githubusercontent.com/u/10670315?v=4&s=450"
+   apple_touch_icon: "https://avatars0.githubusercontent.com/u/10670315?v=4&s=450"
    keywords: "Metaphors' Blog"
 
 uiux:
@@ -22,7 +22,7 @@ card:
 
 many_authors: false
 
-sns_share: # SNS Share Switch
+sns_share: 
    weibo: true
    qq: true
    twitter: true
