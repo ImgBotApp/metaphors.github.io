@@ -332,11 +332,11 @@ bundle install
 详见 **定制导航栏** => **菜单** => 新建Editor页面
 
 ## 评论系统
-共支持4种评论系统：Disqus、Livere、Gitment、Valine
+共支持4种评论系统：Disqus、LiveRe、Gitment、Valine
 ### **Disqus**
 启用 Disqus ：在 _data/site.yml 文件中找到 comment 字段并将其 used 字段设置为disqus ，然后按照参数填入信息
-### **Livere**
-启用 Livere ：在 _data/site.yml 文件中找到 comment 字段并将其 used 字段设置为livere ，然后按照参数填入信息
+### **LiveRe**
+启用 LiveRe ：在 _data/site.yml 文件中找到 comment 字段并将其 used 字段设置为livere ，然后按照参数填入信息
 ### **Gitment**
 启用 Gitment ：在 _data/site.yml 文件中找到 comment 字段并将其 used 字段设置为 gitment ，然后按照参数填入信息，详见 https://github.com/imsun/gitment
 ### **Valine**
@@ -352,7 +352,7 @@ Disqus shortname
  disqus_button   
 是否显示加载 Disqus 按钮
 
-#### Livere
+#### LiveRe
  livere_type   
 livere 版本，默认值为 city ，如果购买了 livere ，填入 premium
 
