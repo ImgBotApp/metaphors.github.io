@@ -32,7 +32,7 @@ sns_share:
    linkedin: false
   
 comment:
-  used: "livere"
+  used: "valine"
   # disqus config
   disqus_shortname: "metaphors-disqus"
   disqus_button: true
@@ -50,9 +50,9 @@ comment:
   #valine config
   valine_notify: false
   valine_verify: false
-  valine_app_id: ''
-  valine_app_key: ''
-  valine_placeholder: ""
+  valine_app_id: '4K2jPOCa6X9xC15hpslanl03-gzGzoHsz'
+  valine_app_key: '2s19HFoS0TTytOej70og9heV'
+  valine_placeholder: "写评论"
 
 prism:
   themes: prism-okaidia

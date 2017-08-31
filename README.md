@@ -340,7 +340,7 @@ bundle install
 ### **Gitment**
 启用 Gitment ：在 _data/site.yml 文件中找到 comment 字段并将其 used 字段设置为 gitment ，然后按照参数填入信息，详见 https://github.com/imsun/gitment
 ### **Valine**
-启用 Valine ：在 _data/site.yml 文件中找到 comment 字段并将 used 字段设置为 valine ，然后按照参数填入信息
+启用 Valine ：在 _data/site.yml 文件中找到 comment 字段并将 used 字段设置为 valine ，然后按照参数填入信息，详见 https://github.com/xcss/Valine
 ### **参数详解**
  used   
 选择要使用的评论系统
@@ -373,6 +373,12 @@ Client ID
 Client Secret
 
 #### Valine
+ valine_app_id   
+App ID
+
+ valine_app_key   
+App Key
+
  valine_placeholder   
 留言框占位提示文字
 
