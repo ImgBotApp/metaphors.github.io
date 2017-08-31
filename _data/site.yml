@@ -32,7 +32,7 @@ sns_share:
    linkedin: false
   
 comment:
-  used: ""
+  used: "gitment"
   # disqus config
   disqus_shortname: ""
   disqus_button: true
@@ -43,10 +43,10 @@ comment:
   livere_type: 'city'
   livere_data_uid: ''
   # gitment config
-  owner: ""
-  repo: ""
-  client_id: ""
-  client_secret: ""
+  owner: "metaphors"
+  repo: "metaphors.github.io"
+  client_id: "45e1bc8087e4b783982e"
+  client_secret: "878fc8f25951b648c38ef69c23eaa5c154e9f92f"
   #valine config
   valine_notify: false
   valine_verify: false

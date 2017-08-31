@@ -345,12 +345,28 @@ bundle install
  used   
 选择要使用的评论系统
 
+#### Disqus
  disqus_button   
 是否显示加载 Disqus 按钮
 
+#### Livere
  livere_type   
 livere 版本，默认值为 city ，如果购买了 livere ，填入 premium
 
+#### Gitment
+ owner   
+GitHub ID
+
+ repo   
+存储评论的 repo
+
+ client_id   
+Client ID
+
+ client_secret 
+Client Secret
+
+#### Valine
  valine_placeholder   
 留言框占位提示文字
 
