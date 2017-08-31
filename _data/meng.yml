@@ -22,7 +22,7 @@ header:
 
 background: 
   switch: true
-  background_img: "/assets/images/home/background.jpg"
+  background_img: "/assets/images/home/background.png"
   transparent_header: true
   transparent_footer: false
   text_color: "#fff"
