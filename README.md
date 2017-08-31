@@ -356,6 +356,9 @@ Disqus shortname
  livere_type   
 livere 版本，默认值为 city ，如果购买了 livere ，填入 premium
 
+ livere_data_uid   
+data-uid
+
 #### Gitment
  owner   
 GitHub ID
