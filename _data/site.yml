@@ -32,7 +32,7 @@ sns_share:
    linkedin: false
   
 comment:
-  used: "livere"
+  used: "valine"
   # disqus config
   disqus_shortname: "metaphors-disqus"
   disqus_button: true
