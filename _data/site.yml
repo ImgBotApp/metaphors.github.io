@@ -40,8 +40,8 @@ comment:
   disqus_proxy_url: ""
   disqus_api_key: ""
   # livere config
-  livere_type: 'city'
-  livere_data_uid: 'MTAyMC8zMDU4My83MTM4'
+  livere_type: ""
+  livere_data_uid: ""
   # gitment config
   owner: "metaphors"
   repo: "metaphors.github.io"
@@ -50,8 +50,8 @@ comment:
   #valine config
   valine_notify: false
   valine_verify: false
-  valine_app_id: '4K2jPOCa6X9xC15hpslanl03-gzGzoHsz'
-  valine_app_key: '2s19HFoS0TTytOej70og9heV'
+  valine_app_id: "4K2jPOCa6X9xC15hpslanl03-gzGzoHsz"
+  valine_app_key: "2s19HFoS0TTytOej70og9heV"
   valine_placeholder: "写评论"
 
 prism:
